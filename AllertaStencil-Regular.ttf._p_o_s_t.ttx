@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-76"/>
+    <underlineThickness value="51"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="Euro"/>
+      <psName name="glyph41"/>
+      <psName name="glyph42"/>
+      <psName name="aid"/>
+      <psName name="food"/>
+      <psName name="up"/>
+      <psName name="water"/>
+      <psName name="shelter"/>
+      <psName name="transport"/>
+      <psName name="woman"/>
+      <psName name="man"/>
+      <psName name="downright"/>
+      <psName name="fruit"/>
+      <psName name="downleft"/>
+      <psName name="right"/>
+      <psName name="left"/>
+      <psName name="glyph163"/>
+      <psName name="down"/>
+      <psName name="glyph173"/>
+      <psName name="glyph174"/>
+      <psName name="glyph175"/>
+      <psName name="glyph176"/>
+      <psName name="glyph177"/>
+      <psName name="glyph178"/>
+      <psName name="upleft"/>
+      <psName name="upright"/>
+      <psName name="glyph181"/>
+      <psName name="glyph182"/>
+      <psName name="glyph183"/>
+      <psName name="glyph184"/>
+    </extraNames>
+  </post>
+
+</ttFont>
