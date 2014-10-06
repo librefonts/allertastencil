@@ -1,0 +1,33 @@
+Fonts
+  Font:
+    Common name: Allerta Stencil
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.02
+    Vendor: Matt McInerney
+    Designer: Matt McInerney
+    Designer url: http://pixelspread.com
+    Glyph count: 217
+    Character count: 186
+    Orthographies:
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
